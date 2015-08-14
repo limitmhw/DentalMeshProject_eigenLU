@@ -1,0 +1,2 @@
+# DentalMeshProject_eigenLU
+使用eigen做laplace型变用到的LU分解
